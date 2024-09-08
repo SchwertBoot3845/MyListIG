@@ -100,13 +100,19 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        The entire run recorded with source audio, any recording with altered audio will be rejected without raw footage.
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        For Geode players, use a mod menu with a cheat indicator and make sure to display it when beating a level.
+                    </p>
+                    <p>
+                        Vanilla players are always required to show that they are not using geode in the same recording as the completion.
+                    </p>
+                    <p>
+                        Raw footage is REQUIRED for extreme demons and ANY verification, and you have to send your raw footage for any type of record if a list staff member asks for it.
                     </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
@@ -121,8 +127,6 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
-                    </p>
                 </div>
             </div>
         </main>
