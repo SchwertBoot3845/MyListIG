@@ -106,25 +106,25 @@ export default {
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        For Geode players, use a mod menu with a cheat indicator and make sure to display it when beating a level.
+                        For Geode players, use a mod menu with a cheat indicator and make sure to display it when beating a level. Otherwise show that all cheats are disabled in your raw footage.
                     </p>
                     <p>
                         Vanilla players are always required to show that they are not using geode in the same recording as the completion.
                     </p>
                     <p>
-                        Raw footage is REQUIRED for extreme demons and ANY verification, and you have to send your raw footage for any type of record if a list staff member asks for it.
+                        Raw footage is REQUIRED and you have to send your raw footage for any type of record if a list staff member asks for it.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        The recordingless the must have a previous attempt and entire death animation shown before the completion, un completion is on the first attempt.
                     </p>
                     <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Do not use secret routes or bug routes.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Do not use easy or LDM modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
                 </div>
